@@ -14,5 +14,10 @@
   "6281361665354": {
     "name": "sanzz",
     "password": "123"
+  },
+  "6285266895922": {
+    "name": "sanzdex",
+    "password": "123",
+    "expirationTime": 1742028235990
   }
 }
